@@ -1,0 +1,2 @@
+# Sentiment-Analysis-in-R-using-janeaustenr
+The aim of this project is to build a sentiment analysis model which will allow us to categorize words based on their sentiments, that is whether they are positive, negative and also the magnitude of it. I implemented it over the dataset of Jane Austen’s books.  I delineated it through various visualizations after performing data wrangling. I used a lexical analyzer – ‘bing’ in this instance of project. I also represented the sentiment score through a plot and also made a visual report of wordcloud.
