@@ -9,3 +9,6 @@ The aim of this project is to build a sentiment analysis model which will allow 
 
 
 ![Wordcloud](https://user-images.githubusercontent.com/62463773/105628289-13fbb100-5e62-11eb-9b8f-fdc9a1a2ea45.png)
+
+
+![image](https://user-images.githubusercontent.com/62463773/105629169-7b682f80-5e67-11eb-8ce5-47296c15a95b.png)
